@@ -1,0 +1,65 @@
+name: Daily Market Update
+
+on:
+  schedule:
+    - cron: '5 */2 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update-market-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Scraper (v4.0)
+        run: python scraper.py
+
+      - name: Validate Output
+        run: |
+          ITEMS=$(python3 -c "import json; d=json.load(open('market_data.json')); print(d.get('totalItems',0))")
+          RATES=$(python3 -c "import json; d=json.load(open('market_data.json')); print(len(d.get('rates',{})))")
+          echo "✅ market_data.json: $ITEMS items, $RATES exchange rates"
+          if [ "$ITEMS" -lt 20 ]; then
+            echo "⚠️  Too few items — skipping commit"
+            exit 1
+          fi
+
+      - name: Audit Exchange Rates
+        run: python audit_rates.py
+
+      - name: Generate Health Check
+        run: |
+          python3 -c "
+          import json, datetime
+          d = json.load(open('market_data.json'))
+          health = {
+            'status': 'ok',
+            'last_update': d.get('last_update',''),
+            'total_items': d.get('totalItems',0),
+            'total_rates': len(d.get('rates',{})),
+            'checked_at': datetime.datetime.utcnow().isoformat() + 'Z'
+          }
+          json.dump(health, open('health.json','w'), indent=2)
+          "
+
+      - name: Commit & Push
+        run: |
+          git config user.name "factory-pocket-bot"
+          git config user.email "bot@factorypocket.pro"
+          git add market_data.json health.json
+          TIMESTAMP=$(python3 -c "import json; d=json.load(open('market_data.json')); print(d['last_update'][:16].replace('T',' '))")
+          git diff --staged --quiet && echo "No changes" && exit 0
+          git commit -m "chore: market update $TIMESTAMP [skip ci]"
+          git push
