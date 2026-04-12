@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-12T19:01:01.847779+00:00",
+  "last_update": "2026-04-12T20:46:11.632315+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -55,24 +55,24 @@
     {
       "ticker": "EURUSD=X",
       "name": "EUR / USD",
-      "price": 1.1729,
-      "trend": 0.6,
+      "price": 1.1714,
+      "trend": 0.19,
       "currency": null,
       "unit": null
     },
     {
       "ticker": "USDJPY=X",
       "name": "USD / JPY",
-      "price": 159.347,
-      "trend": 0.15,
+      "price": 159.634,
+      "trend": 0.33,
       "currency": null,
       "unit": null
     },
     {
       "ticker": "GBPUSD=X",
       "name": "GBP / USD",
-      "price": 1.3461,
-      "trend": 0.5,
+      "price": 1.3393,
+      "trend": -0.28,
       "currency": null,
       "unit": null
     },
@@ -261,29 +261,29 @@
   ],
   "rates": {
     "USD": 1.0,
-    "EUR": 0.8526,
-    "GBP": 0.7429,
-    "JPY": 159.347,
-    "CAD": 1.3831,
-    "AUD": 1.416,
+    "EUR": 0.8537,
+    "GBP": 0.7467,
+    "JPY": 159.634,
+    "CAD": 1.3857,
+    "AUD": 1.4295,
     "CNY": 6.8273,
-    "CHF": 0.7884,
+    "CHF": 0.7906,
     "HKD": 7.8297,
-    "SGD": 1.2736,
-    "SEK": 9.2628,
+    "SGD": 1.2757,
+    "SEK": 9.3093,
     "KRW": 1485.41,
     "NOK": 9.5144,
-    "NZD": 1.713,
+    "NZD": 1.7253,
     "INR": 93.048,
-    "MXN": 17.288,
+    "MXN": 17.395,
     "TWD": 31.766,
-    "ZAR": 16.3983,
+    "ZAR": 16.5688,
     "BRL": 5.0126,
-    "DKK": 6.3963,
-    "PLN": 3.617,
+    "DKK": 6.3999,
+    "PLN": 3.648,
     "THB": 31.98,
     "IDR": 17107.0,
-    "HUF": 319.97,
+    "HUF": 314.69,
     "CZK": 20.767,
     "ILS": 3.0384,
     "CLP": 897.31,
@@ -301,7 +301,13 @@
     "validated": 33,
     "bounds_rejected": [],
     "fetch_failed": [],
-    "cross_check_deviations": {},
+    "cross_check_deviations": {
+      "HUF": {
+        "scraped": 314.69,
+        "ecb": 322.0903,
+        "deviation_pct": 2.3
+      }
+    },
     "cross_check_source": "ECB",
     "final_count": 34
   }
