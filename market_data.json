@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-19T07:43:16.573003+00:00",
+  "last_update": "2026-04-19T09:02:09.060284+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -129,8 +129,8 @@
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 83.85,
-      "trend": -11.45,
+      "price": 82.59,
+      "trend": -12.78,
       "currency": "USD",
       "unit": "USD/bbl"
     },
@@ -163,48 +163,48 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4857.6001,
-      "trend": 1.51,
+      "price": 4879.6001,
+      "trend": 1.97,
       "currency": "USD",
       "unit": "USD/oz"
     },
     {
       "ticker": "SI=F",
       "name": "Silver",
-      "price": 81.738,
-      "trend": 3.98,
+      "price": 81.842,
+      "trend": 4.12,
       "currency": "USD",
       "unit": "USD/oz"
     },
     {
       "ticker": "HG=F",
       "name": "Copper",
-      "price": 6.1035,
-      "trend": 0.61,
+      "price": 6.1145,
+      "trend": 0.79,
       "currency": "USD",
       "unit": "USD/lb"
     },
     {
       "ticker": "ALI=F",
       "name": "Aluminium",
-      "price": 3596.75,
-      "trend": -1.4,
+      "price": 3512.0,
+      "trend": -3.72,
       "currency": "USD",
       "unit": "USD/t"
     },
     {
       "ticker": "PL=F",
       "name": "Platinum",
-      "price": 2124.5,
-      "trend": 1.45,
+      "price": 2141.7,
+      "trend": 2.27,
       "currency": "USD",
       "unit": "USD/oz"
     },
     {
       "ticker": "PA=F",
       "name": "Palladium",
-      "price": 1590.4,
-      "trend": 1.27,
+      "price": 1600.8,
+      "trend": 1.93,
       "currency": "USD",
       "unit": "USD/oz"
     }
@@ -213,16 +213,16 @@
     {
       "ticker": "SB=F",
       "name": "Sugar #11",
-      "price": 13.31,
-      "trend": -2.56,
+      "price": 13.5,
+      "trend": -1.17,
       "currency": null,
       "unit": "¢/lb"
     },
     {
       "ticker": "KC=F",
       "name": "Coffee",
-      "price": 289.3,
-      "trend": -2.41,
+      "price": 272.3,
+      "trend": -8.15,
       "currency": null,
       "unit": "¢/lb"
     },
