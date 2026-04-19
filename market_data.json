@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-19T19:02:06.078493+00:00",
+  "last_update": "2026-04-19T20:48:10.929588+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -55,7 +55,7 @@
     {
       "ticker": "EURUSD=X",
       "name": "EUR / USD",
-      "price": 1.1767,
+      "price": 1.1741,
       "trend": -0.35,
       "currency": null,
       "unit": null
@@ -63,16 +63,16 @@
     {
       "ticker": "USDJPY=X",
       "name": "USD / JPY",
-      "price": 158.584,
-      "trend": -0.14,
+      "price": 158.769,
+      "trend": -0.27,
       "currency": null,
       "unit": null
     },
     {
       "ticker": "GBPUSD=X",
       "name": "GBP / USD",
-      "price": 1.3517,
-      "trend": -0.07,
+      "price": 1.3481,
+      "trend": -0.34,
       "currency": null,
       "unit": null
     },
@@ -261,26 +261,26 @@
   ],
   "rates": {
     "USD": 1.0,
-    "EUR": 0.8498,
-    "GBP": 0.7398,
-    "JPY": 158.584,
-    "CAD": 1.3681,
-    "AUD": 1.395,
+    "EUR": 0.8517,
+    "GBP": 0.7418,
+    "JPY": 158.769,
+    "CAD": 1.3688,
+    "AUD": 1.4043,
     "CNY": 6.8164,
-    "CHF": 0.7802,
-    "HKD": 7.831,
+    "CHF": 0.7814,
+    "HKD": 7.8295,
     "SGD": 1.2696,
     "SEK": 9.1609,
-    "KRW": 1465.6801,
-    "NOK": 9.3524,
-    "NZD": 1.6992,
+    "KRW": 1466.74,
+    "NOK": 9.3671,
+    "NZD": 1.7074,
     "INR": 92.575,
-    "MXN": 17.2625,
+    "MXN": 17.3201,
     "TWD": 31.477,
-    "ZAR": 16.1737,
+    "ZAR": 16.3798,
     "BRL": 4.9896,
-    "DKK": 6.3509,
-    "PLN": 3.5898,
+    "DKK": 6.3648,
+    "PLN": 3.6014,
     "THB": 31.89,
     "IDR": 17184.0,
     "HUF": 306.94,
@@ -292,7 +292,7 @@
     "COP": 3602.75,
     "SAR": 3.751,
     "MYR": 3.95,
-    "RON": 4.3314,
+    "RON": 4.34,
     "MAD": 9.2161
   },
   "exchanger_audit": {
