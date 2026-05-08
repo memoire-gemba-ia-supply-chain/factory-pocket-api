@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-08T21:09:29.623420+00:00",
+  "last_update": "2026-05-08T23:02:00.140319+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -29,16 +29,16 @@
     {
       "ticker": "^STOXX50E",
       "name": "Euro Stoxx 50",
-      "price": 5911.5298,
-      "trend": -1.02,
+      "price": 5972.6499,
+      "trend": -0.9,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^FTSE",
       "name": "FTSE 100",
-      "price": 10233.0703,
-      "trend": -0.43,
+      "price": 10277.0,
+      "trend": -1.55,
       "currency": null,
       "unit": "pts"
     },
@@ -87,7 +87,7 @@
     {
       "ticker": "DX-Y.NYB",
       "name": "US Dollar Index",
-      "price": 97.85,
+      "price": 97.843,
       "trend": -0.41,
       "currency": null,
       "unit": "pts"
@@ -95,24 +95,24 @@
     {
       "ticker": "USDMAD=X",
       "name": "USD / MAD",
-      "price": 9.1083,
-      "trend": -0.93,
+      "price": 9.115,
+      "trend": -0.86,
       "currency": null,
       "unit": null
     },
     {
       "ticker": "EURMAD=X",
       "name": "EUR / MAD",
-      "price": 10.725,
-      "trend": 2.3,
+      "price": 10.736,
+      "trend": 2.4,
       "currency": null,
       "unit": null
     },
     {
       "ticker": "GBPMAD=X",
       "name": "GBP / MAD",
-      "price": 12.407,
-      "trend": 2.27,
+      "price": 12.419,
+      "trend": 2.37,
       "currency": null,
       "unit": null
     }
@@ -121,40 +121,40 @@
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 100.54,
-      "trend": 0.48,
+      "price": 100.49,
+      "trend": 0.43,
       "currency": "USD",
       "unit": "USD/bbl"
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 94.73,
-      "trend": -0.08,
+      "price": 94.68,
+      "trend": -0.14,
       "currency": "USD",
       "unit": "USD/bbl"
     },
     {
       "ticker": "NG=F",
       "name": "Natural Gas",
-      "price": 2.749,
-      "trend": -0.72,
+      "price": 2.75,
+      "trend": -0.69,
       "currency": "USD",
       "unit": "USD/MMBtu"
     },
     {
       "ticker": "HO=F",
       "name": "Heating Oil",
-      "price": 3.8883,
-      "trend": 1.88,
+      "price": 3.8839,
+      "trend": 1.76,
       "currency": "USD",
       "unit": "USD/gal"
     },
     {
       "ticker": "RB=F",
       "name": "Gasoline (RBOB)",
-      "price": 3.3543,
-      "trend": -2.94,
+      "price": 3.354,
+      "trend": -2.95,
       "currency": "USD",
       "unit": "USD/gal"
     }
@@ -163,24 +163,24 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4724.3999,
-      "trend": 0.52,
+      "price": 4723.7002,
+      "trend": 0.51,
       "currency": "USD",
       "unit": "USD/oz"
     },
     {
       "ticker": "SI=F",
       "name": "Silver",
-      "price": 80.865,
-      "trend": 1.46,
+      "price": 80.835,
+      "trend": 1.42,
       "currency": "USD",
       "unit": "USD/oz"
     },
     {
       "ticker": "HG=F",
       "name": "Copper",
-      "price": 6.2815,
-      "trend": 2.51,
+      "price": 6.2825,
+      "trend": 2.53,
       "currency": "USD",
       "unit": "USD/lb"
     },
@@ -195,16 +195,16 @@
     {
       "ticker": "PL=F",
       "name": "Platinum",
-      "price": 2068.5,
-      "trend": 1.0,
+      "price": 2069.3,
+      "trend": 1.04,
       "currency": "USD",
       "unit": "USD/oz"
     },
     {
       "ticker": "PA=F",
       "name": "Palladium",
-      "price": 1503.0,
-      "trend": -0.98,
+      "price": 1503.5,
+      "trend": -0.94,
       "currency": "USD",
       "unit": "USD/oz"
     }
@@ -272,13 +272,13 @@
     "SGD": 1.2666,
     "SEK": 9.204,
     "KRW": 1461.48,
-    "NOK": 9.2006,
+    "NOK": 9.206,
     "NZD": 1.6752,
     "INR": 94.47,
     "MXN": 17.16,
     "TWD": 31.3,
     "ZAR": 16.388,
-    "BRL": 4.8929,
+    "BRL": 4.8945,
     "DKK": 6.3389,
     "PLN": 3.5901,
     "THB": 32.15,
@@ -293,7 +293,7 @@
     "SAR": 3.7514,
     "MYR": 3.918,
     "RON": 4.4283,
-    "MAD": 9.1083
+    "MAD": 9.115
   },
   "exchanger_audit": {
     "total_requested": 33,
