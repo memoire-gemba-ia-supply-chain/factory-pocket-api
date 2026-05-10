@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-10T09:44:18.021484+00:00",
+  "last_update": "2026-05-10T11:04:28.766763+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -237,24 +237,24 @@
     {
       "ticker": "ZW=F",
       "name": "Wheat",
-      "price": 607.5,
-      "trend": 0.96,
+      "price": 619.0,
+      "trend": 2.87,
       "currency": null,
       "unit": "¢/bu"
     },
     {
       "ticker": "ZC=F",
       "name": "Corn",
-      "price": 456.25,
-      "trend": 0.77,
+      "price": 471.25,
+      "trend": 4.09,
       "currency": null,
       "unit": "¢/bu"
     },
     {
       "ticker": "ZS=F",
       "name": "Soybeans",
-      "price": 1194.25,
-      "trend": 1.47,
+      "price": 1208.0,
+      "trend": 2.63,
       "currency": null,
       "unit": "¢/bu"
     }
