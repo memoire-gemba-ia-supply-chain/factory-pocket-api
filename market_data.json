@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-15T22:28:26.130127+00:00",
+  "last_update": "2026-05-16T01:04:24.155865+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -37,7 +37,7 @@
     {
       "ticker": "^FTSE",
       "name": "FTSE 100",
-      "price": 10195.3701,
+      "price": 10195.4004,
       "trend": -1.71,
       "currency": null,
       "unit": "pts"
@@ -45,8 +45,8 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 62654.0508,
-      "trend": -0.98,
+      "price": 61409.2891,
+      "trend": -1.99,
       "currency": null,
       "unit": "pts"
     }
@@ -289,7 +289,7 @@
     "CLP": 908.88,
     "PHP": 61.648,
     "AED": 3.6727,
-    "COP": 3791.48,
+    "COP": 3796.77,
     "SAR": 3.7525,
     "MYR": 3.947,
     "RON": 4.4441,
