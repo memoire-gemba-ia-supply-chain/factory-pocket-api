@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-23T14:39:53.218030+00:00",
+  "last_update": "2026-05-23T16:29:13.587966+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -71,8 +71,8 @@
     {
       "ticker": "GBPUSD=X",
       "name": "GBP / USD",
-      "price": 1.3433,
-      "trend": -0.01,
+      "price": 1.3434,
+      "trend": 0.01,
       "currency": null,
       "unit": null
     },
@@ -270,7 +270,7 @@
     "CHF": 0.7847,
     "HKD": 7.8343,
     "SGD": 1.2795,
-    "SEK": 9.3479,
+    "SEK": 9.3646,
     "KRW": 1520.53,
     "NOK": 9.2447,
     "NZD": 1.709,
