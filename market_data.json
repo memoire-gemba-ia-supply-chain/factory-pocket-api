@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-31T16:35:20.106494+00:00",
+  "last_update": "2026-05-31T18:35:53.957136+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -80,7 +80,7 @@
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
       "price": 6.7657,
-      "trend": -0.19,
+      "trend": -0.2,
       "currency": null,
       "unit": null
     },
@@ -111,8 +111,8 @@
     {
       "ticker": "GBPMAD=X",
       "name": "GBP / MAD",
-      "price": 12.328,
-      "trend": 3.1,
+      "price": 12.337,
+      "trend": 3.51,
       "currency": null,
       "unit": null
     }
@@ -275,21 +275,21 @@
     "NOK": 9.2288,
     "NZD": 1.6694,
     "INR": 94.99,
-    "MXN": 17.285,
+    "MXN": 17.338,
     "TWD": 31.411,
     "ZAR": 16.235,
-    "BRL": 5.0426,
+    "BRL": 5.0361,
     "DKK": 6.4097,
-    "PLN": 3.627,
+    "PLN": 3.6251,
     "THB": 32.43,
     "IDR": 17878.0,
-    "HUF": 302.99,
-    "CZK": 20.738,
+    "HUF": 303.13,
+    "CZK": 20.8,
     "ILS": 2.814,
     "CLP": 888.0,
     "PHP": 61.513,
-    "AED": 3.6727,
-    "COP": 3686.8999,
+    "AED": 3.673,
+    "COP": 3665.8701,
     "SAR": 3.7525,
     "MYR": 3.963,
     "RON": 4.5085,
