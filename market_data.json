@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-31T12:43:56.839589+00:00",
+  "last_update": "2026-05-31T14:41:12.000871+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -145,8 +145,8 @@
     {
       "ticker": "HO=F",
       "name": "Heating Oil",
-      "price": 3.5373,
-      "trend": -2.25,
+      "price": 3.4886,
+      "trend": -3.6,
       "currency": "USD",
       "unit": "USD/gal"
     },
@@ -195,16 +195,16 @@
     {
       "ticker": "PL=F",
       "name": "Platinum",
-      "price": 1922.2,
-      "trend": 0.03,
+      "price": 1929.5,
+      "trend": 0.41,
       "currency": "USD",
       "unit": "USD/oz"
     },
     {
       "ticker": "PA=F",
       "name": "Palladium",
-      "price": 1361.0,
-      "trend": -1.2,
+      "price": 1381.9,
+      "trend": 0.31,
       "currency": "USD",
       "unit": "USD/oz"
     }
@@ -213,8 +213,8 @@
     {
       "ticker": "SB=F",
       "name": "Sugar #11",
-      "price": 14.06,
-      "trend": 0.93,
+      "price": 14.07,
+      "trend": 1.01,
       "currency": null,
       "unit": "¢/lb"
     },
@@ -289,7 +289,7 @@
     "CLP": 888.0,
     "PHP": 61.513,
     "AED": 3.6727,
-    "COP": 3665.72,
+    "COP": 3686.8999,
     "SAR": 3.7525,
     "MYR": 3.963,
     "RON": 4.5085,
