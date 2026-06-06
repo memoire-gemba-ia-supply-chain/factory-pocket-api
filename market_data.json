@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-05T22:34:25.144536+00:00",
+  "last_update": "2026-06-06T01:13:23.617512+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -37,8 +37,8 @@
     {
       "ticker": "^FTSE",
       "name": "FTSE 100",
-      "price": 10368.0498,
-      "trend": 0.07,
+      "price": 10360.2998,
+      "trend": 0.27,
       "currency": null,
       "unit": "pts"
     },
@@ -80,7 +80,7 @@
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
       "price": 6.765,
-      "trend": -0.06,
+      "trend": -0.13,
       "currency": null,
       "unit": null
     },
@@ -96,7 +96,7 @@
       "ticker": "USDMAD=X",
       "name": "USD / MAD",
       "price": 9.2376,
-      "trend": 0.52,
+      "trend": 3.79,
       "currency": null,
       "unit": null
     },
@@ -278,7 +278,7 @@
     "MXN": 17.463,
     "TWD": 31.585,
     "ZAR": 16.5539,
-    "BRL": 5.1512,
+    "BRL": 5.1711,
     "DKK": 6.4855,
     "PLN": 3.6792,
     "THB": 32.79,
@@ -301,7 +301,13 @@
     "validated": 33,
     "bounds_rejected": [],
     "fetch_failed": [],
-    "cross_check_deviations": {},
+    "cross_check_deviations": {
+      "BRL": {
+        "scraped": 5.1711,
+        "ecb": 5.0599,
+        "deviation_pct": 2.2
+      }
+    },
     "cross_check_source": "ECB",
     "final_count": 34
   }
