@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-07T10:52:58.014333+00:00",
+  "last_update": "2026-06-07T12:46:12.774739+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -153,8 +153,8 @@
     {
       "ticker": "RB=F",
       "name": "Gasoline (RBOB)",
-      "price": 2.9868,
-      "trend": -1.7,
+      "price": 3.0459,
+      "trend": 0.25,
       "currency": "USD",
       "unit": "USD/gal"
     }
@@ -171,8 +171,8 @@
     {
       "ticker": "SI=F",
       "name": "Silver",
-      "price": 69.103,
-      "trend": -6.34,
+      "price": 68.943,
+      "trend": -6.55,
       "currency": "USD",
       "unit": "USD/oz"
     },
