@@ -1,7 +1,15 @@
 {
-  "last_update": "2026-06-12T22:40:49.956366+00:00",
-  "totalItems": 30,
+  "last_update": "2026-06-13T01:21:54.335513+00:00",
+  "totalItems": 31,
   "indices": [
+    {
+      "ticker": "^GSPC",
+      "name": "S&P 500",
+      "price": 7431.46,
+      "trend": 0.5,
+      "currency": null,
+      "unit": "pts"
+    },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
@@ -21,15 +29,15 @@
     {
       "ticker": "^STOXX50E",
       "name": "Euro Stoxx 50",
-      "price": 6056.96,
-      "trend": 0.78,
+      "price": 6187.6299,
+      "trend": 2.16,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^FTSE",
       "name": "FTSE 100",
-      "price": 10471.7197,
+      "price": 10471.7002,
       "trend": 1.63,
       "currency": null,
       "unit": "pts"
@@ -37,8 +45,8 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 64217.2695,
-      "trend": 0.06,
+      "price": 66020.0391,
+      "trend": 2.81,
       "currency": null,
       "unit": "pts"
     }
@@ -281,7 +289,7 @@
     "CLP": 898.7,
     "PHP": 60.72,
     "AED": 3.6728,
-    "COP": 3489.9399,
+    "COP": 3454.45,
     "SAR": 3.7528,
     "MYR": 4.055,
     "RON": 4.5256,
