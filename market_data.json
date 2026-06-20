@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-19T22:28:02.383894+00:00",
+  "last_update": "2026-06-20T01:17:53.289072+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -21,32 +21,32 @@
     {
       "ticker": "^IXIC",
       "name": "Nasdaq",
-      "price": 26021.6602,
-      "trend": -1.34,
+      "price": 26517.9297,
+      "trend": 1.91,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^STOXX50E",
       "name": "Euro Stoxx 50",
-      "price": 6300.0698,
-      "trend": 0.68,
+      "price": 6323.27,
+      "trend": 0.37,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^FTSE",
       "name": "FTSE 100",
-      "price": 10363.2695,
-      "trend": -1.38,
+      "price": 10399.7002,
+      "trend": -1.04,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 69902.25,
-      "trend": 0.72,
+      "price": 71053.4922,
+      "trend": 1.65,
       "currency": null,
       "unit": "pts"
     }
@@ -95,8 +95,8 @@
     {
       "ticker": "USDMAD=X",
       "name": "USD / MAD",
-      "price": 9.3,
-      "trend": 3.87,
+      "price": 9.2992,
+      "trend": 3.86,
       "currency": null,
       "unit": null
     },
@@ -268,32 +268,32 @@
     "AUD": 1.4254,
     "CNY": 6.7681,
     "CHF": 0.8064,
-    "HKD": 7.8368,
+    "HKD": 7.8365,
     "SGD": 1.2903,
     "SEK": 9.5741,
     "KRW": 1529.89,
     "NOK": 9.6812,
     "NZD": 1.7415,
     "INR": 94.31,
-    "MXN": 17.311,
+    "MXN": 17.309,
     "TWD": 31.67,
-    "ZAR": 16.39,
-    "BRL": 5.1415,
+    "ZAR": 16.3919,
+    "BRL": 5.15,
     "DKK": 6.5157,
     "PLN": 3.7098,
     "THB": 32.82,
-    "IDR": 17775.0,
+    "IDR": 17821.0,
     "HUF": 306.59,
     "CZK": 21.055,
     "ILS": 2.9586,
     "CLP": 903.15,
     "PHP": 60.619,
     "AED": 3.6727,
-    "COP": 3437.48,
-    "SAR": 3.7533,
+    "COP": 3436.0801,
+    "SAR": 3.7532,
     "MYR": 4.134,
     "RON": 4.5646,
-    "MAD": 9.3
+    "MAD": 9.2992
   },
   "exchanger_audit": {
     "total_requested": 33,
