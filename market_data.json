@@ -1,28 +1,28 @@
 {
-  "last_update": "2026-06-20T03:20:30.785311+00:00",
+  "last_update": "2026-06-20T05:40:34.867209+00:00",
   "totalItems": 31,
   "indices": [
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7500.5801,
-      "trend": 1.08,
+      "price": 7420.1001,
+      "trend": -1.21,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51564.6992,
-      "trend": 0.14,
+      "price": 51492.5508,
+      "trend": -0.98,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^IXIC",
       "name": "Nasdaq",
-      "price": 26517.9297,
-      "trend": 1.91,
+      "price": 26021.6602,
+      "trend": -1.34,
       "currency": null,
       "unit": "pts"
     },
@@ -30,7 +30,7 @@
       "ticker": "^STOXX50E",
       "name": "Euro Stoxx 50",
       "price": 6293.1299,
-      "trend": -0.48,
+      "trend": -0.11,
       "currency": null,
       "unit": "pts"
     },
@@ -38,7 +38,7 @@
       "ticker": "^FTSE",
       "name": "FTSE 100",
       "price": 10363.2998,
-      "trend": -0.35,
+      "trend": -1.38,
       "currency": null,
       "unit": "pts"
     },
@@ -46,7 +46,7 @@
       "ticker": "^N225",
       "name": "Nikkei 225",
       "price": 71250.0625,
-      "trend": 0.28,
+      "trend": 1.93,
       "currency": null,
       "unit": "pts"
     }
@@ -63,8 +63,8 @@
     {
       "ticker": "USDJPY=X",
       "name": "USD / JPY",
-      "price": 161.28,
-      "trend": 0.42,
+      "price": 161.275,
+      "trend": -0.01,
       "currency": null,
       "unit": null
     },
@@ -88,7 +88,7 @@
       "ticker": "DX-Y.NYB",
       "name": "US Dollar Index",
       "price": 100.849,
-      "trend": -0.0,
+      "trend": 0.76,
       "currency": null,
       "unit": "pts"
     },
@@ -263,12 +263,12 @@
     "USD": 1.0,
     "EUR": 0.8719,
     "GBP": 0.7554,
-    "JPY": 161.28,
-    "CAD": 1.4149,
+    "JPY": 161.275,
+    "CAD": 1.4152,
     "AUD": 1.4254,
     "CNY": 6.7681,
     "CHF": 0.8064,
-    "HKD": 7.8365,
+    "HKD": 7.8368,
     "SGD": 1.2903,
     "SEK": 9.5741,
     "KRW": 1529.89,
@@ -277,7 +277,7 @@
     "INR": 94.31,
     "MXN": 17.309,
     "TWD": 31.67,
-    "ZAR": 16.3919,
+    "ZAR": 16.3921,
     "BRL": 5.15,
     "DKK": 6.5157,
     "PLN": 3.7098,
