@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-20T14:53:31.733579+00:00",
+  "last_update": "2026-06-20T16:41:18.087444+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -79,8 +79,8 @@
     {
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
-      "price": 6.7681,
-      "trend": 0.16,
+      "price": 6.7647,
+      "trend": -0.06,
       "currency": null,
       "unit": null
     },
@@ -266,7 +266,7 @@
     "JPY": 161.275,
     "CAD": 1.4152,
     "AUD": 1.4254,
-    "CNY": 6.7681,
+    "CNY": 6.7647,
     "CHF": 0.8064,
     "HKD": 7.8368,
     "SGD": 1.2903,
