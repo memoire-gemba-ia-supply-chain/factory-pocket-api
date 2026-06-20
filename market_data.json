@@ -1,20 +1,20 @@
 {
-  "last_update": "2026-06-20T01:17:53.289072+00:00",
+  "last_update": "2026-06-20T03:20:30.785311+00:00",
   "totalItems": 31,
   "indices": [
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7420.1001,
-      "trend": -1.21,
+      "price": 7500.5801,
+      "trend": 1.08,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51492.5508,
-      "trend": -0.98,
+      "price": 51564.6992,
+      "trend": 0.14,
       "currency": null,
       "unit": "pts"
     },
@@ -29,24 +29,24 @@
     {
       "ticker": "^STOXX50E",
       "name": "Euro Stoxx 50",
-      "price": 6323.27,
-      "trend": 0.37,
+      "price": 6293.1299,
+      "trend": -0.48,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^FTSE",
       "name": "FTSE 100",
-      "price": 10399.7002,
-      "trend": -1.04,
+      "price": 10363.2998,
+      "trend": -0.35,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 71053.4922,
-      "trend": 1.65,
+      "price": 71250.0625,
+      "trend": 0.28,
       "currency": null,
       "unit": "pts"
     }
@@ -88,7 +88,7 @@
       "ticker": "DX-Y.NYB",
       "name": "US Dollar Index",
       "price": 100.849,
-      "trend": 0.76,
+      "trend": -0.0,
       "currency": null,
       "unit": "pts"
     },
