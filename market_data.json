@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-21T20:41:27.378438+00:00",
+  "last_update": "2026-06-21T22:35:18.161960+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -55,40 +55,40 @@
     {
       "ticker": "EURUSD=X",
       "name": "EUR / USD",
-      "price": 1.1464,
-      "trend": 0.05,
+      "price": 1.1465,
+      "trend": 0.06,
       "currency": null,
       "unit": null
     },
     {
       "ticker": "USDJPY=X",
       "name": "USD / JPY",
-      "price": 161.225,
-      "trend": -0.04,
+      "price": 161.443,
+      "trend": 0.1,
       "currency": null,
       "unit": null
     },
     {
       "ticker": "GBPUSD=X",
       "name": "GBP / USD",
-      "price": 1.3192,
-      "trend": -0.08,
+      "price": 1.3207,
+      "trend": 0.04,
       "currency": null,
       "unit": null
     },
     {
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
-      "price": 6.7681,
-      "trend": -0.01,
+      "price": 6.7647,
+      "trend": -0.06,
       "currency": null,
       "unit": null
     },
     {
       "ticker": "DX-Y.NYB",
       "name": "US Dollar Index",
-      "price": 100.85,
-      "trend": 0.76,
+      "price": 100.822,
+      "trend": -0.03,
       "currency": null,
       "unit": "pts"
     },
@@ -121,40 +121,40 @@
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 80.59,
-      "trend": 0.93,
+      "price": 81.75,
+      "trend": 2.38,
       "currency": "USD",
       "unit": "USD/bbl"
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 76.54,
-      "trend": -0.08,
+      "price": 77.72,
+      "trend": 1.46,
       "currency": "USD",
       "unit": "USD/bbl"
     },
     {
       "ticker": "NG=F",
       "name": "Natural Gas",
-      "price": 3.198,
-      "trend": -1.08,
+      "price": 3.282,
+      "trend": 1.52,
       "currency": "USD",
       "unit": "USD/MMBtu"
     },
     {
       "ticker": "HO=F",
       "name": "Heating Oil",
-      "price": 3.1508,
-      "trend": 0.75,
+      "price": 3.1819,
+      "trend": 1.75,
       "currency": "USD",
       "unit": "USD/gal"
     },
     {
       "ticker": "RB=F",
       "name": "Gasoline (RBOB)",
-      "price": 2.9122,
-      "trend": -2.76,
+      "price": 2.9446,
+      "trend": -1.68,
       "currency": "USD",
       "unit": "USD/gal"
     }
@@ -163,16 +163,16 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4172.8999,
-      "trend": -1.21,
+      "price": 4166.7998,
+      "trend": -1.36,
       "currency": "USD",
       "unit": "USD/oz"
     },
     {
       "ticker": "SI=F",
       "name": "Silver",
-      "price": 64.91,
-      "trend": -2.03,
+      "price": 64.62,
+      "trend": -2.47,
       "currency": "USD",
       "unit": "USD/oz"
     },
@@ -261,30 +261,30 @@
   ],
   "rates": {
     "USD": 1.0,
-    "EUR": 0.8723,
-    "GBP": 0.758,
-    "JPY": 161.225,
-    "CAD": 1.4163,
-    "AUD": 1.4247,
-    "CNY": 6.7681,
-    "CHF": 0.8071,
-    "HKD": 7.8362,
-    "SGD": 1.2915,
-    "SEK": 9.5741,
+    "EUR": 0.8722,
+    "GBP": 0.7571,
+    "JPY": 161.423,
+    "CAD": 1.4176,
+    "AUD": 1.427,
+    "CNY": 6.7647,
+    "CHF": 0.8076,
+    "HKD": 7.8368,
+    "SGD": 1.292,
+    "SEK": 9.5746,
     "KRW": 1529.89,
-    "NOK": 9.6812,
-    "NZD": 1.743,
+    "NOK": 9.6892,
+    "NZD": 1.7442,
     "INR": 94.31,
-    "MXN": 17.3385,
+    "MXN": 17.323,
     "TWD": 31.67,
-    "ZAR": 16.4801,
+    "ZAR": 16.4569,
     "BRL": 5.1415,
-    "DKK": 6.521,
-    "PLN": 3.7142,
+    "DKK": 6.5201,
+    "PLN": 3.7132,
     "THB": 32.82,
     "IDR": 17821.0,
-    "HUF": 307.23,
-    "CZK": 21.086,
+    "HUF": 307.18,
+    "CZK": 21.0649,
     "ILS": 2.9586,
     "CLP": 903.15,
     "PHP": 60.619,
@@ -292,7 +292,7 @@
     "COP": 3436.0801,
     "SAR": 3.7534,
     "MYR": 4.134,
-    "RON": 4.5646,
+    "RON": 4.5794,
     "MAD": 9.2992
   },
   "exchanger_audit": {
