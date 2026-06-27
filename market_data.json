@@ -1,28 +1,28 @@
 {
-  "last_update": "2026-06-27T05:27:38.736696+00:00",
+  "last_update": "2026-06-27T07:18:48.320796+00:00",
   "totalItems": 31,
   "indices": [
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7357.4902,
-      "trend": -0.01,
+      "price": 7354.02,
+      "trend": -0.05,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51920.6211,
-      "trend": 0.14,
+      "price": 51876.1094,
+      "trend": -0.09,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^IXIC",
       "name": "Nasdaq",
-      "price": 25358.5996,
-      "trend": -0.46,
+      "price": 25297.6191,
+      "trend": -0.24,
       "currency": null,
       "unit": "pts"
     },
@@ -37,8 +37,8 @@
     {
       "ticker": "^FTSE",
       "name": "FTSE 100",
-      "price": 10529.9004,
-      "trend": 0.65,
+      "price": 10508.0,
+      "trend": -0.21,
       "currency": null,
       "unit": "pts"
     },
