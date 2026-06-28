@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-28T01:18:51.089197+00:00",
+  "last_update": "2026-06-28T03:21:44.777438+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -29,24 +29,24 @@
     {
       "ticker": "^STOXX50E",
       "name": "Euro Stoxx 50",
-      "price": 6221.5498,
-      "trend": -0.73,
+      "price": 6267.5298,
+      "trend": 0.85,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^FTSE",
       "name": "FTSE 100",
-      "price": 10508.0,
-      "trend": -0.21,
+      "price": 10529.9004,
+      "trend": 0.65,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 69360.8828,
-      "trend": -4.15,
+      "price": 72366.3438,
+      "trend": 4.61,
       "currency": null,
       "unit": "pts"
     }
