@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-04T23:03:43.466058+00:00",
+  "last_update": "2026-07-05T04:05:18.676799+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -87,8 +87,8 @@
     {
       "ticker": "DX-Y.NYB",
       "name": "US Dollar Index",
-      "price": 100.857,
-      "trend": -0.0,
+      "price": 100.86,
+      "trend": -0.52,
       "currency": null,
       "unit": "pts"
     },
@@ -213,48 +213,48 @@
     {
       "ticker": "SB=F",
       "name": "Sugar #11",
-      "price": 14.85,
-      "trend": -0.93,
+      "price": 14.81,
+      "trend": -1.2,
       "currency": null,
       "unit": "¢/lb"
     },
     {
       "ticker": "KC=F",
       "name": "Coffee",
-      "price": 315.65,
-      "trend": -2.67,
+      "price": 287.45,
+      "trend": -11.36,
       "currency": null,
       "unit": "¢/lb"
     },
     {
       "ticker": "CT=F",
       "name": "Cotton #2",
-      "price": 72.57,
-      "trend": -0.97,
+      "price": 77.52,
+      "trend": 5.79,
       "currency": null,
       "unit": "¢/lb"
     },
     {
       "ticker": "ZW=F",
       "name": "Wheat",
-      "price": 590.5,
-      "trend": -0.25,
+      "price": 600.25,
+      "trend": 1.39,
       "currency": null,
       "unit": "¢/bu"
     },
     {
       "ticker": "ZC=F",
       "name": "Corn",
-      "price": 425.0,
-      "trend": 0.95,
+      "price": 440.75,
+      "trend": 4.69,
       "currency": null,
       "unit": "¢/bu"
     },
     {
       "ticker": "ZS=F",
       "name": "Soybeans",
-      "price": 1131.75,
-      "trend": 0.49,
+      "price": 1146.75,
+      "trend": 1.82,
       "currency": null,
       "unit": "¢/bu"
     }
