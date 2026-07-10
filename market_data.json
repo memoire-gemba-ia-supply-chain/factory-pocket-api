@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-10T21:12:15.071151+00:00",
+  "last_update": "2026-07-10T23:04:07.731737+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -29,16 +29,16 @@
     {
       "ticker": "^STOXX50E",
       "name": "Euro Stoxx 50",
-      "price": 6269.9702,
-      "trend": -0.23,
+      "price": 6284.27,
+      "trend": 1.28,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^FTSE",
       "name": "FTSE 100",
-      "price": 10497.29,
-      "trend": 0.24,
+      "price": 10472.5,
+      "trend": -0.16,
       "currency": null,
       "unit": "pts"
     },
@@ -79,8 +79,8 @@
     {
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
-      "price": 6.7761,
-      "trend": -0.39,
+      "price": 6.7667,
+      "trend": -0.53,
       "currency": null,
       "unit": null
     },
@@ -266,7 +266,7 @@
     "JPY": 161.672,
     "CAD": 1.4152,
     "AUD": 1.4378,
-    "CNY": 6.7761,
+    "CNY": 6.7667,
     "CHF": 0.8078,
     "HKD": 7.8393,
     "SGD": 1.2914,
