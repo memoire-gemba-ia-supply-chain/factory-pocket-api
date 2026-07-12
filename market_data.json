@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-11T22:56:47.762074+00:00",
+  "last_update": "2026-07-12T03:35:02.929253+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -71,8 +71,8 @@
     {
       "ticker": "GBPUSD=X",
       "name": "GBP / USD",
-      "price": 1.3398,
-      "trend": 0.01,
+      "price": 1.3401,
+      "trend": -0.11,
       "currency": null,
       "unit": null
     },
@@ -262,7 +262,7 @@
   "rates": {
     "USD": 1.0,
     "EUR": 0.8757,
-    "GBP": 0.7464,
+    "GBP": 0.7462,
     "JPY": 161.672,
     "CAD": 1.4153,
     "AUD": 1.4378,
