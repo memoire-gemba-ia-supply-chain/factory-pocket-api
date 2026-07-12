@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-12T13:41:58.496138+00:00",
+  "last_update": "2026-07-12T15:03:55.217434+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -79,8 +79,8 @@
     {
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
-      "price": 6.7667,
-      "trend": -0.37,
+      "price": 6.7761,
+      "trend": -0.24,
       "currency": null,
       "unit": null
     },
@@ -96,7 +96,7 @@
       "ticker": "USDMAD=X",
       "name": "USD / MAD",
       "price": 9.3213,
-      "trend": -0.44,
+      "trend": -0.31,
       "currency": null,
       "unit": null
     },
@@ -266,7 +266,7 @@
     "JPY": 161.672,
     "CAD": 1.4152,
     "AUD": 1.4378,
-    "CNY": 6.7667,
+    "CNY": 6.7761,
     "CHF": 0.8078,
     "HKD": 7.8393,
     "SGD": 1.2914,
@@ -289,7 +289,7 @@
     "CLP": 923.9,
     "PHP": 61.475,
     "AED": 3.6725,
-    "COP": 3247.47,
+    "COP": 3247.5,
     "SAR": 3.753,
     "MYR": 4.067,
     "RON": 4.5896,
