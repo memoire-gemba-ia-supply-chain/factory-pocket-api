@@ -1,52 +1,52 @@
 {
-  "last_update": "2026-07-25T15:09:41.749246+00:00",
+  "last_update": "2026-07-25T17:06:59.590019+00:00",
   "totalItems": 31,
   "indices": [
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7411.98,
-      "trend": 0.05,
+      "price": 7408.2998,
+      "trend": -1.21,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 51947.25,
-      "trend": 0.46,
+      "price": 51711.6484,
+      "trend": -0.97,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^IXIC",
       "name": "Nasdaq",
-      "price": 24975.8203,
-      "trend": -0.64,
+      "price": 25137.6895,
+      "trend": -2.15,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^STOXX50E",
       "name": "Euro Stoxx 50",
-      "price": 6280.9399,
-      "trend": 1.14,
+      "price": 6210.1699,
+      "trend": -1.69,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^FTSE",
       "name": "FTSE 100",
-      "price": 10736.2002,
-      "trend": 0.91,
+      "price": 10639.2002,
+      "trend": -0.73,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 64611.1484,
-      "trend": -2.73,
+      "price": 66422.6016,
+      "trend": 0.46,
       "currency": null,
       "unit": "pts"
     }
@@ -79,16 +79,16 @@
     {
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
-      "price": 6.7718,
-      "trend": -0.01,
+      "price": 6.7617,
+      "trend": -0.16,
       "currency": null,
       "unit": null
     },
     {
       "ticker": "DX-Y.NYB",
       "name": "US Dollar Index",
-      "price": 101.47,
-      "trend": 0.04,
+      "price": 101.43,
+      "trend": 0.29,
       "currency": null,
       "unit": "pts"
     },
@@ -266,7 +266,7 @@
     "JPY": 163.791,
     "CAD": 1.4092,
     "AUD": 1.432,
-    "CNY": 6.7718,
+    "CNY": 6.7617,
     "CHF": 0.8177,
     "HKD": 7.8414,
     "SGD": 1.2901,
