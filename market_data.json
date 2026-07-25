@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-24T23:07:37.565033+00:00",
+  "last_update": "2026-07-25T03:22:21.138716+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -79,8 +79,8 @@
     {
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
-      "price": 6.7714,
-      "trend": -0.02,
+      "price": 6.7617,
+      "trend": -0.16,
       "currency": null,
       "unit": null
     },
@@ -95,24 +95,24 @@
     {
       "ticker": "USDMAD=X",
       "name": "USD / MAD",
-      "price": 9.3545,
-      "trend": -0.3,
+      "price": 9.355,
+      "trend": 2.86,
       "currency": null,
       "unit": null
     },
     {
       "ticker": "EURMAD=X",
       "name": "EUR / MAD",
-      "price": 10.624,
-      "trend": 2.49,
+      "price": 10.631,
+      "trend": 2.72,
       "currency": null,
       "unit": null
     },
     {
       "ticker": "GBPMAD=X",
       "name": "GBP / MAD",
-      "price": 12.454,
-      "trend": 2.5,
+      "price": 12.46,
+      "trend": 2.89,
       "currency": null,
       "unit": null
     }
@@ -266,7 +266,7 @@
     "JPY": 163.791,
     "CAD": 1.4092,
     "AUD": 1.432,
-    "CNY": 6.7714,
+    "CNY": 6.7617,
     "CHF": 0.8177,
     "HKD": 7.8414,
     "SGD": 1.29,
@@ -276,12 +276,12 @@
     "NZD": 1.7268,
     "INR": 96.552,
     "MXN": 17.475,
-    "TWD": 32.321,
-    "ZAR": 16.8246,
+    "TWD": 32.34,
+    "ZAR": 16.82,
     "BRL": 5.0751,
     "DKK": 6.5744,
     "PLN": 3.7925,
-    "THB": 33.66,
+    "THB": 33.69,
     "IDR": 17968.0,
     "HUF": 317.25,
     "CZK": 21.202,
@@ -289,11 +289,11 @@
     "CLP": 948.45,
     "PHP": 61.66,
     "AED": 3.6729,
-    "COP": 3216.78,
+    "COP": 3217.6599,
     "SAR": 3.7538,
     "MYR": 4.088,
     "RON": 4.5851,
-    "MAD": 9.3545
+    "MAD": 9.355
   },
   "exchanger_audit": {
     "total_requested": 33,
