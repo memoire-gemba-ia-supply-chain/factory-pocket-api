@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-14T22:30:16.097863+00:00",
+  "last_update": "2026-08-15T01:38:19.771661+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -29,15 +29,15 @@
     {
       "ticker": "^STOXX50E",
       "name": "Euro Stoxx 50",
-      "price": 6545.4702,
-      "trend": 0.18,
+      "price": 6539.5898,
+      "trend": -0.09,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^FTSE",
       "name": "FTSE 100",
-      "price": 10750.1104,
+      "price": 10750.0996,
       "trend": -0.21,
       "currency": null,
       "unit": "pts"
@@ -45,8 +45,8 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 68308.5938,
-      "trend": 1.16,
+      "price": 68713.7969,
+      "trend": 0.59,
       "currency": null,
       "unit": "pts"
     }
@@ -64,7 +64,7 @@
       "ticker": "USDJPY=X",
       "name": "USD / JPY",
       "price": 159.305,
-      "trend": -0.01,
+      "trend": -0.08,
       "currency": null,
       "unit": null
     },
@@ -79,8 +79,8 @@
     {
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
-      "price": 6.7322,
-      "trend": -0.16,
+      "price": 6.7407,
+      "trend": -0.03,
       "currency": null,
       "unit": null
     },
@@ -96,7 +96,7 @@
       "ticker": "USDMAD=X",
       "name": "USD / MAD",
       "price": 9.2768,
-      "trend": -0.28,
+      "trend": -0.29,
       "currency": null,
       "unit": null
     },
@@ -264,23 +264,23 @@
     "EUR": 0.8641,
     "GBP": 0.7388,
     "JPY": 159.305,
-    "CAD": 1.3872,
+    "CAD": 1.387,
     "AUD": 1.4111,
-    "CNY": 6.7322,
+    "CNY": 6.7407,
     "CHF": 0.813,
-    "HKD": 7.847,
+    "HKD": 7.8467,
     "SGD": 1.2789,
     "SEK": 9.5161,
     "KRW": 1416.48,
     "NOK": 9.4322,
     "NZD": 1.6967,
     "INR": 95.415,
-    "MXN": 17.0025,
+    "MXN": 17.015,
     "TWD": 32.004,
-    "ZAR": 16.1664,
-    "BRL": 5.2265,
+    "ZAR": 16.1645,
+    "BRL": 5.2132,
     "DKK": 6.4587,
-    "PLN": 3.7222,
+    "PLN": 3.719,
     "THB": 33.09,
     "IDR": 17831.0,
     "HUF": 313.61,
@@ -289,7 +289,7 @@
     "CLP": 914.45,
     "PHP": 61.417,
     "AED": 3.6726,
-    "COP": 3133.52,
+    "COP": 3141.48,
     "SAR": 3.7544,
     "MYR": 4.084,
     "RON": 4.5257,
