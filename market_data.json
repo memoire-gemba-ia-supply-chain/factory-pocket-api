@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-16T04:41:20.431458+00:00",
+  "last_update": "2026-08-16T06:50:12.363866+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -80,7 +80,7 @@
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
       "price": 6.7419,
-      "trend": -0.02,
+      "trend": -0.01,
       "currency": null,
       "unit": null
     },
