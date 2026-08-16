@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-16T10:29:36.642443+00:00",
+  "last_update": "2026-08-16T12:51:08.648887+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -72,7 +72,7 @@
       "ticker": "GBPUSD=X",
       "name": "GBP / USD",
       "price": 1.3533,
-      "trend": 0.26,
+      "trend": 0.31,
       "currency": null,
       "unit": null
     },
@@ -80,7 +80,7 @@
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
       "price": 6.7419,
-      "trend": -0.02,
+      "trend": -0.01,
       "currency": null,
       "unit": null
     },
@@ -237,8 +237,8 @@
     {
       "ticker": "ZW=F",
       "name": "Wheat",
-      "price": 689.5,
-      "trend": 5.63,
+      "price": 674.75,
+      "trend": 3.37,
       "currency": null,
       "unit": "¢/bu"
     },
