@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-21T22:30:56.070949+00:00",
+  "last_update": "2026-08-22T01:37:54.758469+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -29,15 +29,15 @@
     {
       "ticker": "^STOXX50E",
       "name": "Euro Stoxx 50",
-      "price": 6422.0601,
-      "trend": -0.35,
+      "price": 6462.2202,
+      "trend": 0.63,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^FTSE",
       "name": "FTSE 100",
-      "price": 10816.5596,
+      "price": 10816.5996,
       "trend": 0.64,
       "currency": null,
       "unit": "pts"
@@ -45,8 +45,8 @@
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 66216.7891,
-      "trend": 1.36,
+      "price": 66016.3594,
+      "trend": -0.3,
       "currency": null,
       "unit": "pts"
     }
@@ -63,8 +63,8 @@
     {
       "ticker": "USDJPY=X",
       "name": "USD / JPY",
-      "price": 158.862,
-      "trend": 0.37,
+      "price": 158.94,
+      "trend": 0.42,
       "currency": null,
       "unit": null
     },
@@ -95,16 +95,16 @@
     {
       "ticker": "USDMAD=X",
       "name": "USD / MAD",
-      "price": 9.23,
-      "trend": -0.14,
+      "price": 9.235,
+      "trend": -0.08,
       "currency": null,
       "unit": null
     },
     {
       "ticker": "EURMAD=X",
       "name": "EUR / MAD",
-      "price": 10.771,
-      "trend": 3.35,
+      "price": 10.785,
+      "trend": 3.48,
       "currency": null,
       "unit": null
     },
@@ -263,37 +263,37 @@
     "USD": 1.0,
     "EUR": 0.8563,
     "GBP": 0.7327,
-    "JPY": 158.862,
+    "JPY": 158.94,
     "CAD": 1.3763,
     "AUD": 1.3938,
     "CNY": 6.7118,
     "CHF": 0.8008,
     "HKD": 7.8396,
     "SGD": 1.2693,
-    "SEK": 9.4622,
-    "KRW": 1385.98,
-    "NOK": 9.285,
-    "NZD": 1.6717,
-    "INR": 95.685,
-    "MXN": 16.91,
-    "TWD": 31.823,
-    "ZAR": 16.026,
+    "SEK": 9.465,
+    "KRW": 1385.0,
+    "NOK": 9.287,
+    "NZD": 1.673,
+    "INR": 95.69,
+    "MXN": 16.895,
+    "TWD": 31.82,
+    "ZAR": 16.02,
     "BRL": 5.1366,
     "DKK": 6.398,
-    "PLN": 3.6883,
-    "THB": 32.66,
-    "IDR": 17700.0,
+    "PLN": 3.688,
+    "THB": 32.67,
+    "IDR": 17685.0,
     "HUF": 310.28,
     "CZK": 20.629,
     "ILS": 2.9863,
     "CLP": 914.28,
     "PHP": 61.65,
     "AED": 3.6724,
-    "COP": 3037.1201,
-    "SAR": 3.7545,
+    "COP": 3038.2,
+    "SAR": 3.7543,
     "MYR": 4.035,
-    "RON": 4.4974,
-    "MAD": 9.23
+    "RON": 4.493,
+    "MAD": 9.235
   },
   "exchanger_audit": {
     "total_requested": 33,
