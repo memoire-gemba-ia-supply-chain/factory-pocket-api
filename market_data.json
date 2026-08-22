@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-22T02:59:49.964611+00:00",
+  "last_update": "2026-08-22T04:39:20.498968+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -21,7 +21,7 @@
     {
       "ticker": "^IXIC",
       "name": "Nasdaq",
-      "price": 26180.4551,
+      "price": 26180.4609,
       "trend": 0.43,
       "currency": null,
       "unit": "pts"
@@ -79,16 +79,16 @@
     {
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
-      "price": 6.7118,
-      "trend": -0.16,
+      "price": 6.7205,
+      "trend": -0.03,
       "currency": null,
       "unit": null
     },
     {
       "ticker": "DX-Y.NYB",
       "name": "US Dollar Index",
-      "price": 98.839,
-      "trend": -0.06,
+      "price": 98.8,
+      "trend": -0.1,
       "currency": null,
       "unit": "pts"
     },
@@ -121,40 +121,40 @@
     {
       "ticker": "BZ=F",
       "name": "Brent Crude",
-      "price": 93.87,
-      "trend": 0.1,
+      "price": 94.39,
+      "trend": 0.65,
       "currency": "USD",
       "unit": "USD/bbl"
     },
     {
       "ticker": "CL=F",
       "name": "WTI Crude",
-      "price": 86.64,
-      "trend": -1.35,
+      "price": 87.06,
+      "trend": -0.88,
       "currency": "USD",
       "unit": "USD/bbl"
     },
     {
       "ticker": "NG=F",
       "name": "Natural Gas",
-      "price": 2.798,
-      "trend": 2.38,
+      "price": 2.773,
+      "trend": 1.46,
       "currency": "USD",
       "unit": "USD/MMBtu"
     },
     {
       "ticker": "HO=F",
       "name": "Heating Oil",
-      "price": 4.348,
-      "trend": -2.95,
+      "price": 4.4948,
+      "trend": 0.32,
       "currency": "USD",
       "unit": "USD/gal"
     },
     {
       "ticker": "RB=F",
       "name": "Gasoline (RBOB)",
-      "price": 3.0223,
-      "trend": -7.37,
+      "price": 3.3479,
+      "trend": 2.61,
       "currency": "USD",
       "unit": "USD/gal"
     }
@@ -163,48 +163,48 @@
     {
       "ticker": "GC=F",
       "name": "Gold",
-      "price": 4661.6001,
-      "trend": 3.22,
+      "price": 4624.1001,
+      "trend": 2.39,
       "currency": "USD",
       "unit": "USD/oz"
     },
     {
       "ticker": "SI=F",
       "name": "Silver",
-      "price": 69.01,
-      "trend": 1.45,
+      "price": 69.466,
+      "trend": 2.12,
       "currency": "USD",
       "unit": "USD/oz"
     },
     {
       "ticker": "HG=F",
       "name": "Copper",
-      "price": 6.58,
-      "trend": 1.86,
+      "price": 6.5795,
+      "trend": 1.85,
       "currency": "USD",
       "unit": "USD/lb"
     },
     {
       "ticker": "ALI=F",
       "name": "Aluminium",
-      "price": 3413.0,
-      "trend": 2.67,
+      "price": 3482.5,
+      "trend": 4.76,
       "currency": "USD",
       "unit": "USD/t"
     },
     {
       "ticker": "PL=F",
       "name": "Platinum",
-      "price": 1891.4,
-      "trend": 3.3,
+      "price": 1887.3,
+      "trend": 3.07,
       "currency": "USD",
       "unit": "USD/oz"
     },
     {
       "ticker": "PA=F",
       "name": "Palladium",
-      "price": 1353.5,
-      "trend": 1.29,
+      "price": 1348.5,
+      "trend": 0.91,
       "currency": "USD",
       "unit": "USD/oz"
     }
@@ -213,48 +213,48 @@
     {
       "ticker": "SB=F",
       "name": "Sugar #11",
-      "price": 17.6,
-      "trend": 0.46,
+      "price": 17.61,
+      "trend": 0.51,
       "currency": null,
       "unit": "¢/lb"
     },
     {
       "ticker": "KC=F",
       "name": "Coffee",
-      "price": 324.9,
-      "trend": -10.64,
+      "price": 358.75,
+      "trend": -1.33,
       "currency": null,
       "unit": "¢/lb"
     },
     {
       "ticker": "CT=F",
       "name": "Cotton #2",
-      "price": 88.6,
-      "trend": 1.82,
+      "price": 87.07,
+      "trend": 0.06,
       "currency": null,
       "unit": "¢/lb"
     },
     {
       "ticker": "ZW=F",
       "name": "Wheat",
-      "price": 700.0,
-      "trend": 2.53,
+      "price": 681.5,
+      "trend": -0.18,
       "currency": null,
       "unit": "¢/bu"
     },
     {
       "ticker": "ZC=F",
       "name": "Corn",
-      "price": 508.25,
-      "trend": 6.16,
+      "price": 483.75,
+      "trend": 1.04,
       "currency": null,
       "unit": "¢/bu"
     },
     {
       "ticker": "ZS=F",
       "name": "Soybeans",
-      "price": 1240.25,
-      "trend": 1.6,
+      "price": 1225.0,
+      "trend": 0.35,
       "currency": null,
       "unit": "¢/bu"
     }
@@ -264,25 +264,25 @@
     "EUR": 0.8563,
     "GBP": 0.7327,
     "JPY": 158.94,
-    "CAD": 1.3763,
+    "CAD": 1.3764,
     "AUD": 1.3938,
-    "CNY": 6.7118,
+    "CNY": 6.7205,
     "CHF": 0.8008,
-    "HKD": 7.8396,
+    "HKD": 7.8399,
     "SGD": 1.2693,
-    "SEK": 9.465,
-    "KRW": 1385.0,
-    "NOK": 9.287,
-    "NZD": 1.673,
-    "INR": 95.69,
+    "SEK": 9.4622,
+    "KRW": 1383.9,
+    "NOK": 9.285,
+    "NZD": 1.6727,
+    "INR": 95.71,
     "MXN": 16.895,
     "TWD": 31.82,
-    "ZAR": 16.02,
+    "ZAR": 16.0029,
     "BRL": 5.1366,
     "DKK": 6.398,
     "PLN": 3.688,
     "THB": 32.67,
-    "IDR": 17685.0,
+    "IDR": 17690.0,
     "HUF": 310.28,
     "CZK": 20.629,
     "ILS": 2.9863,
@@ -291,7 +291,7 @@
     "AED": 3.6724,
     "COP": 3038.2,
     "SAR": 3.7543,
-    "MYR": 4.035,
+    "MYR": 4.0365,
     "RON": 4.493,
     "MAD": 9.235
   },
