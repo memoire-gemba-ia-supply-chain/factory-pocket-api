@@ -1,52 +1,52 @@
 {
-  "last_update": "2026-08-29T10:57:49.226928+00:00",
+  "last_update": "2026-08-29T16:35:13.547099+00:00",
   "totalItems": 31,
   "indices": [
     {
       "ticker": "^GSPC",
       "name": "S&P 500",
-      "price": 7730.9902,
-      "trend": 0.72,
+      "price": 7711.7598,
+      "trend": -0.25,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^DJI",
       "name": "Dow Jones",
-      "price": 53569.4414,
-      "trend": 0.2,
+      "price": 53559.9883,
+      "trend": -0.02,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^IXIC",
       "name": "Nasdaq",
-      "price": 26541.3496,
-      "trend": 1.57,
+      "price": 26402.4199,
+      "trend": -0.52,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^STOXX50E",
       "name": "Euro Stoxx 50",
-      "price": 6424.73,
-      "trend": -0.71,
+      "price": 6485.6699,
+      "trend": 0.95,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^FTSE",
       "name": "FTSE 100",
-      "price": 10792.5,
-      "trend": -0.79,
+      "price": 10824.2998,
+      "trend": 0.29,
       "currency": null,
       "unit": "pts"
     },
     {
       "ticker": "^N225",
       "name": "Nikkei 225",
-      "price": 66131.9766,
-      "trend": -0.2,
+      "price": 66405.5625,
+      "trend": 0.41,
       "currency": null,
       "unit": "pts"
     }
@@ -79,7 +79,7 @@
     {
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
-      "price": 6.7205,
+      "price": 6.7208,
       "trend": -0.03,
       "currency": null,
       "unit": null
@@ -87,8 +87,8 @@
     {
       "ticker": "DX-Y.NYB",
       "name": "US Dollar Index",
-      "price": 99.16,
-      "trend": -0.01,
+      "price": 99.7,
+      "trend": 0.54,
       "currency": null,
       "unit": "pts"
     },
@@ -266,11 +266,11 @@
     "JPY": 160.038,
     "CAD": 1.3901,
     "AUD": 1.3958,
-    "CNY": 6.7205,
+    "CNY": 6.7208,
     "CHF": 0.8093,
     "HKD": 7.8391,
     "SGD": 1.2745,
-    "SEK": 9.5917,
+    "SEK": 9.594,
     "KRW": 1371.5,
     "NOK": 9.3641,
     "NZD": 1.6907,
