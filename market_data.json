@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-12T10:29:52.111973+00:00",
+  "last_update": "2026-09-12T15:23:09.176212+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -55,8 +55,8 @@
     {
       "ticker": "EURUSD=X",
       "name": "EUR / USD",
-      "price": 1.1602,
-      "trend": -0.27,
+      "price": 1.1601,
+      "trend": -0.28,
       "currency": null,
       "unit": null
     },
@@ -71,8 +71,8 @@
     {
       "ticker": "GBPUSD=X",
       "name": "GBP / USD",
-      "price": 1.3529,
-      "trend": -0.17,
+      "price": 1.353,
+      "trend": -0.16,
       "currency": null,
       "unit": null
     },
@@ -261,8 +261,8 @@
   ],
   "rates": {
     "USD": 1.0,
-    "EUR": 0.8619,
-    "GBP": 0.7392,
+    "EUR": 0.862,
+    "GBP": 0.7391,
     "JPY": 153.554,
     "CAD": 1.3869,
     "AUD": 1.3942,
