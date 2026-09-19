@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-19T10:42:36.808644+00:00",
+  "last_update": "2026-09-19T15:44:29.693768+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -55,8 +55,8 @@
     {
       "ticker": "EURUSD=X",
       "name": "EUR / USD",
-      "price": 1.1489,
-      "trend": 0.17,
+      "price": 1.149,
+      "trend": 0.18,
       "currency": null,
       "unit": null
     },
@@ -261,7 +261,7 @@
   ],
   "rates": {
     "USD": 1.0,
-    "EUR": 0.8704,
+    "EUR": 0.8703,
     "GBP": 0.7467,
     "JPY": 156.855,
     "CAD": 1.3987,
