@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-03T22:47:41.255652+00:00",
+  "last_update": "2026-10-04T05:26:35.903274+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -79,8 +79,8 @@
     {
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
-      "price": 6.6987,
-      "trend": -0.09,
+      "price": 6.7048,
+      "trend": 0.0,
       "currency": null,
       "unit": null
     },
@@ -171,40 +171,40 @@
     {
       "ticker": "SI=F",
       "name": "Silver",
-      "price": 59.977,
-      "trend": -1.23,
+      "price": 60.415,
+      "trend": -0.51,
       "currency": "USD",
       "unit": "USD/oz"
     },
     {
       "ticker": "HG=F",
       "name": "Copper",
-      "price": 6.492,
-      "trend": 0.15,
+      "price": 6.549,
+      "trend": 1.03,
       "currency": "USD",
       "unit": "USD/lb"
     },
     {
       "ticker": "ALI=F",
       "name": "Aluminium",
-      "price": 3191.75,
-      "trend": -0.2,
+      "price": 3214.75,
+      "trend": 0.52,
       "currency": "USD",
       "unit": "USD/t"
     },
     {
       "ticker": "PL=F",
       "name": "Platinum",
-      "price": 1683.2,
-      "trend": -1.31,
+      "price": 1700.0,
+      "trend": -0.32,
       "currency": "USD",
       "unit": "USD/oz"
     },
     {
       "ticker": "PA=F",
       "name": "Palladium",
-      "price": 1161.1,
-      "trend": -0.66,
+      "price": 1172.2,
+      "trend": 0.29,
       "currency": "USD",
       "unit": "USD/oz"
     }
@@ -221,8 +221,8 @@
     {
       "ticker": "KC=F",
       "name": "Coffee",
-      "price": 288.75,
-      "trend": 0.17,
+      "price": 290.75,
+      "trend": 0.87,
       "currency": null,
       "unit": "¢/lb"
     },
@@ -266,7 +266,7 @@
     "JPY": 157.83,
     "CAD": 1.4247,
     "AUD": 1.4373,
-    "CNY": 6.6987,
+    "CNY": 6.7048,
     "CHF": 0.8285,
     "HKD": 7.8463,
     "SGD": 1.2789,
@@ -284,7 +284,7 @@
     "THB": 33.53,
     "IDR": 17900.0,
     "HUF": 327.26,
-    "CZK": 21.705,
+    "CZK": 21.709,
     "ILS": 3.0532,
     "CLP": 989.6,
     "PHP": 62.58,
