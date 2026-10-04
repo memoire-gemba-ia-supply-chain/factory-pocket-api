@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-04T12:08:54.242233+00:00",
+  "last_update": "2026-10-04T18:04:20.785080+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -79,8 +79,8 @@
     {
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
-      "price": 6.7048,
-      "trend": 0.0,
+      "price": 6.704,
+      "trend": -0.01,
       "currency": null,
       "unit": null
     },
@@ -95,8 +95,8 @@
     {
       "ticker": "USDMAD=X",
       "name": "USD / MAD",
-      "price": 9.9372,
-      "trend": 2.35,
+      "price": 9.937,
+      "trend": 5.05,
       "currency": null,
       "unit": null
     },
@@ -265,8 +265,8 @@
     "GBP": 0.7553,
     "JPY": 157.83,
     "CAD": 1.4247,
-    "AUD": 1.4373,
-    "CNY": 6.7048,
+    "AUD": 1.4372,
+    "CNY": 6.704,
     "CHF": 0.8285,
     "HKD": 7.8463,
     "SGD": 1.2789,
@@ -277,23 +277,23 @@
     "INR": 96.3,
     "MXN": 18.145,
     "TWD": 31.796,
-    "ZAR": 16.6425,
+    "ZAR": 16.67,
     "BRL": 5.2223,
     "DKK": 6.6421,
-    "PLN": 3.8922,
+    "PLN": 3.8905,
     "THB": 33.53,
-    "IDR": 17900.0,
-    "HUF": 327.26,
-    "CZK": 21.709,
+    "IDR": 17893.0,
+    "HUF": 327.28,
+    "CZK": 21.704,
     "ILS": 3.0532,
     "CLP": 989.6,
-    "PHP": 62.58,
-    "AED": 3.6728,
+    "PHP": 62.491,
+    "AED": 3.6729,
     "COP": 3263.3,
-    "SAR": 3.7542,
-    "MYR": 4.0845,
+    "SAR": 3.7543,
+    "MYR": 4.081,
     "RON": 4.7434,
-    "MAD": 9.9372
+    "MAD": 9.937
   },
   "exchanger_audit": {
     "total_requested": 33,
