@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-10T23:22:53.481811+00:00",
+  "last_update": "2026-10-11T05:19:06.765120+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -79,8 +79,8 @@
     {
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
-      "price": 6.683,
-      "trend": -0.28,
+      "price": 6.6922,
+      "trend": -0.15,
       "currency": null,
       "unit": null
     },
@@ -153,8 +153,8 @@
     {
       "ticker": "RB=F",
       "name": "Gasoline (RBOB)",
-      "price": 3.2952,
-      "trend": -0.63,
+      "price": 3.1534,
+      "trend": -4.9,
       "currency": "USD",
       "unit": "USD/gal"
     }
@@ -171,40 +171,40 @@
     {
       "ticker": "SI=F",
       "name": "Silver",
-      "price": 60.67,
-      "trend": 2.72,
+      "price": 61.048,
+      "trend": 3.36,
       "currency": "USD",
       "unit": "USD/oz"
     },
     {
       "ticker": "HG=F",
       "name": "Copper",
-      "price": 6.6425,
-      "trend": 1.89,
+      "price": 6.692,
+      "trend": 2.65,
       "currency": "USD",
       "unit": "USD/lb"
     },
     {
       "ticker": "ALI=F",
       "name": "Aluminium",
-      "price": 3180.0,
-      "trend": 0.83,
+      "price": 3185.0,
+      "trend": 0.99,
       "currency": "USD",
       "unit": "USD/t"
     },
     {
       "ticker": "PL=F",
       "name": "Platinum",
-      "price": 1679.3,
-      "trend": 3.3,
+      "price": 1693.3,
+      "trend": 4.16,
       "currency": "USD",
       "unit": "USD/oz"
     },
     {
       "ticker": "PA=F",
       "name": "Palladium",
-      "price": 1140.5,
-      "trend": 2.3,
+      "price": 1150.4,
+      "trend": 3.18,
       "currency": "USD",
       "unit": "USD/oz"
     }
@@ -221,8 +221,8 @@
     {
       "ticker": "KC=F",
       "name": "Coffee",
-      "price": 286.95,
-      "trend": -0.73,
+      "price": 285.15,
+      "trend": -1.35,
       "currency": null,
       "unit": "¢/lb"
     },
@@ -266,7 +266,7 @@
     "JPY": 158.246,
     "CAD": 1.4254,
     "AUD": 1.4311,
-    "CNY": 6.683,
+    "CNY": 6.6922,
     "CHF": 0.83,
     "HKD": 7.8472,
     "SGD": 1.2804,
