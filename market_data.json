@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-31T12:01:42.756363+00:00",
+  "last_update": "2026-10-31T17:10:52.956493+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -71,16 +71,16 @@
     {
       "ticker": "GBPUSD=X",
       "name": "GBP / USD",
-      "price": 1.3379,
-      "trend": 0.38,
+      "price": 1.3393,
+      "trend": 0.11,
       "currency": null,
       "unit": null
     },
     {
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
-      "price": 6.654,
-      "trend": -0.11,
+      "price": 6.6449,
+      "trend": -0.24,
       "currency": null,
       "unit": null
     },
@@ -262,11 +262,11 @@
   "rates": {
     "USD": 1.0,
     "EUR": 0.8942,
-    "GBP": 0.7475,
+    "GBP": 0.7467,
     "JPY": 157.804,
     "CAD": 1.3973,
     "AUD": 1.4214,
-    "CNY": 6.654,
+    "CNY": 6.6449,
     "CHF": 0.8249,
     "HKD": 7.8442,
     "SGD": 1.2776,
