@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-08T01:13:47.609628+00:00",
+  "last_update": "2026-11-08T08:49:23.526363+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -79,8 +79,8 @@
     {
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
-      "price": 6.6648,
-      "trend": -0.35,
+      "price": 6.671,
+      "trend": -0.25,
       "currency": null,
       "unit": null
     },
@@ -171,24 +171,24 @@
     {
       "ticker": "SI=F",
       "name": "Silver",
-      "price": 51.803,
-      "trend": -0.82,
+      "price": 51.942,
+      "trend": -0.56,
       "currency": "USD",
       "unit": "USD/oz"
     },
     {
       "ticker": "HG=F",
       "name": "Copper",
-      "price": 6.218,
-      "trend": -0.5,
+      "price": 6.2375,
+      "trend": -0.18,
       "currency": "USD",
       "unit": "USD/lb"
     },
     {
       "ticker": "ALI=F",
       "name": "Aluminium",
-      "price": 3236.25,
-      "trend": 0.83,
+      "price": 3191.5,
+      "trend": -0.57,
       "currency": "USD",
       "unit": "USD/t"
     },
@@ -221,8 +221,8 @@
     {
       "ticker": "KC=F",
       "name": "Coffee",
-      "price": 280.0,
-      "trend": 1.03,
+      "price": 280.15,
+      "trend": 1.08,
       "currency": null,
       "unit": "¢/lb"
     },
@@ -253,8 +253,8 @@
     {
       "ticker": "ZS=F",
       "name": "Soybeans",
-      "price": 1189.0,
-      "trend": 0.68,
+      "price": 1193.75,
+      "trend": 1.08,
       "currency": null,
       "unit": "¢/bu"
     }
@@ -266,7 +266,7 @@
     "JPY": 158.425,
     "CAD": 1.4128,
     "AUD": 1.456,
-    "CNY": 6.6648,
+    "CNY": 6.671,
     "CHF": 0.8154,
     "HKD": 7.8396,
     "SGD": 1.2825,
@@ -277,7 +277,7 @@
     "INR": 93.91,
     "MXN": 18.5975,
     "TWD": 33.1093,
-    "ZAR": 16.55,
+    "ZAR": 16.517,
     "BRL": 5.4959,
     "DKK": 6.708,
     "PLN": 3.9598,
