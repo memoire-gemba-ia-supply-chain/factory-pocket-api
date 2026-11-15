@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-14T22:12:47.370948+00:00",
+  "last_update": "2026-11-15T05:56:08.012162+00:00",
   "totalItems": 31,
   "indices": [
     {
@@ -71,16 +71,16 @@
     {
       "ticker": "GBPUSD=X",
       "name": "GBP / USD",
-      "price": 1.3231,
-      "trend": -0.34,
+      "price": 1.3212,
+      "trend": -0.15,
       "currency": null,
       "unit": null
     },
     {
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
-      "price": 6.6621,
-      "trend": -0.12,
+      "price": 6.6712,
+      "trend": 0.01,
       "currency": null,
       "unit": null
     },
@@ -153,8 +153,8 @@
     {
       "ticker": "RB=F",
       "name": "Gasoline (RBOB)",
-      "price": 2.6214,
-      "trend": -1.85,
+      "price": 2.5891,
+      "trend": -3.06,
       "currency": "USD",
       "unit": "USD/gal"
     }
@@ -171,40 +171,40 @@
     {
       "ticker": "SI=F",
       "name": "Silver",
-      "price": 49.031,
-      "trend": -1.88,
+      "price": 49.121,
+      "trend": -1.7,
       "currency": "USD",
       "unit": "USD/oz"
     },
     {
       "ticker": "HG=F",
       "name": "Copper",
-      "price": 6.0795,
-      "trend": -1.67,
+      "price": 6.0905,
+      "trend": -1.49,
       "currency": "USD",
       "unit": "USD/lb"
     },
     {
       "ticker": "ALI=F",
       "name": "Aluminium",
-      "price": 3133.25,
-      "trend": -0.85,
+      "price": 3120.0,
+      "trend": -1.27,
       "currency": "USD",
       "unit": "USD/t"
     },
     {
       "ticker": "PL=F",
       "name": "Platinum",
-      "price": 1488.5,
-      "trend": -1.95,
+      "price": 1489.7,
+      "trend": -1.87,
       "currency": "USD",
       "unit": "USD/oz"
     },
     {
       "ticker": "PA=F",
       "name": "Palladium",
-      "price": 1006.0,
-      "trend": 1.65,
+      "price": 1007.6,
+      "trend": 1.81,
       "currency": "USD",
       "unit": "USD/oz"
     }
@@ -221,8 +221,8 @@
     {
       "ticker": "KC=F",
       "name": "Coffee",
-      "price": 278.65,
-      "trend": -0.55,
+      "price": 279.25,
+      "trend": -0.34,
       "currency": null,
       "unit": "¢/lb"
     },
@@ -253,8 +253,8 @@
     {
       "ticker": "ZS=F",
       "name": "Soybeans",
-      "price": 1243.0,
-      "trend": 1.3,
+      "price": 1231.5,
+      "trend": 0.37,
       "currency": null,
       "unit": "¢/bu"
     }
@@ -262,11 +262,11 @@
   "rates": {
     "USD": 1.0,
     "EUR": 0.905,
-    "GBP": 0.7558,
+    "GBP": 0.7569,
     "JPY": 159.875,
     "CAD": 1.4269,
     "AUD": 1.4762,
-    "CNY": 6.6621,
+    "CNY": 6.6712,
     "CHF": 0.8382,
     "HKD": 7.8455,
     "SGD": 1.2877,
