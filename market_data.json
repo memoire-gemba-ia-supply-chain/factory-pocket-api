@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-11-21T12:23:56.395074+00:00",
-  "totalItems": 27,
+  "last_update": "2026-11-21T20:26:02.887027+00:00",
+  "totalItems": 31,
   "indices": [
     {
       "ticker": "^GSPC",
@@ -71,16 +71,16 @@
     {
       "ticker": "GBPUSD=X",
       "name": "GBP / USD",
-      "price": 1.3086,
-      "trend": -0.46,
+      "price": 1.3082,
+      "trend": -0.04,
       "currency": null,
       "unit": null
     },
     {
       "ticker": "USDCNY=X",
       "name": "USD / CNY",
-      "price": 6.6772,
-      "trend": 0.16,
+      "price": 6.6623,
+      "trend": -0.06,
       "currency": null,
       "unit": null
     },
@@ -199,6 +199,14 @@
       "trend": -4.32,
       "currency": "USD",
       "unit": "USD/oz"
+    },
+    {
+      "ticker": "PA=F",
+      "name": "Palladium",
+      "price": 891.7,
+      "trend": -2.73,
+      "currency": "USD",
+      "unit": "USD/oz"
     }
   ],
   "agriculture": [
@@ -211,12 +219,36 @@
       "unit": "¢/lb"
     },
     {
+      "ticker": "KC=F",
+      "name": "Coffee",
+      "price": 274.85,
+      "trend": -2.55,
+      "currency": null,
+      "unit": "¢/lb"
+    },
+    {
       "ticker": "CT=F",
       "name": "Cotton #2",
       "price": 75.47,
       "trend": -0.63,
       "currency": null,
       "unit": "¢/lb"
+    },
+    {
+      "ticker": "ZW=F",
+      "name": "Wheat",
+      "price": 574.25,
+      "trend": -0.69,
+      "currency": null,
+      "unit": "¢/bu"
+    },
+    {
+      "ticker": "ZC=F",
+      "name": "Corn",
+      "price": 434.5,
+      "trend": -1.03,
+      "currency": null,
+      "unit": "¢/bu"
     },
     {
       "ticker": "ZS=F",
@@ -230,11 +262,11 @@
   "rates": {
     "USD": 1.0,
     "EUR": 0.9116,
-    "GBP": 0.7641,
+    "GBP": 0.7644,
     "JPY": 159.707,
     "CAD": 1.434,
     "AUD": 1.5108,
-    "CNY": 6.6772,
+    "CNY": 6.6623,
     "CHF": 0.8441,
     "HKD": 7.8389,
     "SGD": 1.29,
